@@ -24,7 +24,7 @@ Recriar o layout do desafio proposto do app gerador de conselhos, a princípio s
 ### Links
 
 - URL da solução: [https://github.com/PietroZanetelliDev/exercicio-css-avancado-advice-generator-app-main](https://github.com/PietroZanetelliDev/exercicio-css-avancado-advice-generator-app-main)
-- URL do site ativo: [Adicione o URL do site ativo aqui](https://your-live-site-url.com)
+- URL do site ativo: [https://pietrozanetellidev.github.io/exercicio-css-avancado-advice-generator-app-main/](https://pietrozanetellidev.github.io/exercicio-css-avancado-advice-generator-app-main/)
 
 ### Construído com
 
